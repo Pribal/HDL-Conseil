@@ -115,7 +115,7 @@ header a:hover {
 }
 
 #background-home {
-    background-image: "../images/background-home.jpg";
+    background-image: url("images/background-home.jpg");
     background-size: cover;
     background-position: center;
 
@@ -500,7 +500,7 @@ footer a:hover {
 
 #background-footer {
     position: absolute;
-    background-image: "../images/hdl-img2.jpg";
+    background-image: url("images/hdl-img2.jpg");
     background-position: center;
     background-size: cover;
     filter: contrast(25%);
